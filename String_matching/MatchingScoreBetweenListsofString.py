@@ -12,8 +12,8 @@ at the end
 from MatchingRoutines import similarity
 
 #Setting params
-inputFile='A.csv'
-outputFile='A_score.csv'
+inputFile='C:\\Users\\mmoniruz\\Documents\\MyProjects\\agencyProject\\TwoListAgencies_csv.csv'
+outputFile='C:\\Users\\mmoniruz\\Documents\\MyProjects\\agencyProject\\TwoListAgencies_csv_score.csv'
 quote='"'
 fieldAIndx=0
 fieldBIndx=1
