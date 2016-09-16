@@ -3,6 +3,7 @@ Database developers are often assigned to document a database that comes with no
 Description of the scripts-
 
 1. Find_ID.ipynb
+
 This notebook retrieves numeric id for users who do not have one in the dataset. It shows how to join two dataset using pandas dataframe and approximate string matching
 
 2. String_matching/MatchingScoreBetweenListsofString.py:
